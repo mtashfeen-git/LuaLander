@@ -61,7 +61,8 @@ public class Lander : MonoBehaviour {
     }
 
     private void FixedUpdate() {
-        OnBeforeForce?.Invoke(this, EventArgs.Empty);
+
+    OnBeforeForce?.Invoke(this, EventArgs.Empty);
 
         switch (state) {
             default:
