@@ -1,4 +1,4 @@
-# Luna Lander
+# LuaLander
 
 A 2D lunar landing game built with Unity. Navigate your spacecraft through space and land safely on the moon's surface while managing your fuel supply!
 
